@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is chapter 3.
+=======
+Hi, this is chapter 3 and you are good!
+>>>>>>> new
